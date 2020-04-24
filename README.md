@@ -1,4 +1,4 @@
-**IMPORTANT: If you are looking for a detailed, interactive tutorial, [click here](emoss-survey.herokuapp.com). Your feedback helps EMOSS to improve!**
+**IMPORTANT: If you are looking for a detailed, interactive tutorial, [click here](https://emoss-survey.herokuapp.com/). Your feedback helps EMOSS to improve!**
 
 Live Editor and Online Compiler for EMOSS - the CSS preprocessor language built with BEM in mind.
 
@@ -117,7 +117,7 @@ will be compiled into the following CSS code:
 
 *In development
 
-**If you are interested in EMOSS, [take the online user survey](emoss-survey.herokuapp.com) to let me know what you think!**
+**If you are interested in EMOSS, [take the online user survey](https://emoss-survey.herokuapp.com/) to let me know what you think!**
 
 
 License
