@@ -2,7 +2,7 @@
 
 Live Editor and Online Compiler for EMOSS - the CSS preprocessor language built with BEM in mind.
 
-[http://emoss-lang.com/](http://emoss-lang.com/)
+[http://emoss-lang.com/](http://emoss-lang.com/) (Play with the dark mode!)
 
  **/editor.emoss** can be found in the root directory and will be compiled into **/css/editor.css**, serving as the core CSS file for this online editor.
 
